@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.496c16f6.css",
-    "main.js": "/static/js/main.fde7f450.js",
-    "index.html": "/index.html",
-    "main.496c16f6.css.map": "/static/css/main.496c16f6.css.map",
-    "main.fde7f450.js.map": "/static/js/main.fde7f450.js.map"
+    "main.css": "/aydogdu-ali/perfectandpalindronNumber/static/css/main.496c16f6.css",
+    "main.js": "/aydogdu-ali/perfectandpalindronNumber/static/js/main.fde7f450.js",
+    "index.html": "/aydogdu-ali/perfectandpalindronNumber/index.html",
+    "main.496c16f6.css.map": "/aydogdu-ali/perfectandpalindronNumber/static/css/main.496c16f6.css.map",
+    "main.fde7f450.js.map": "/aydogdu-ali/perfectandpalindronNumber/static/js/main.fde7f450.js.map"
   },
   "entrypoints": [
     "static/css/main.496c16f6.css",
