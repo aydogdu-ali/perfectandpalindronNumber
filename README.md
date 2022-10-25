@@ -7,5 +7,6 @@ Bu uygulamada amaçım Reactın component yapısında veri aktarımını(inputla
 
 
 
-https://user-images.githubusercontent.com/108414013/197888032-b4a755f4-c7f8-4fbd-b421-a6ae5bd606f9.mp4
 
+
+![numbers](https://user-images.githubusercontent.com/108414013/197888230-d471bc9f-28bd-4ac0-ab4a-bd415647c02f.gif)
