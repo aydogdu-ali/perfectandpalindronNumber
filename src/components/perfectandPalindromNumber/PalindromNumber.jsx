@@ -24,12 +24,11 @@ const PalindromNumber = ({numberOne ,numberTwo}) => {
 
   return (
     <div className="d-flex justify-content-center gap-5">
-              <div className="map">
+          <div className="map">
           <h5> Palindrom Number</h5>
           <div className=" show">
-            {pal.map((item) => {
-              console.log(item);
-              return <p>{item}</p>;
+            {pal.map((item) => { 
+              return (<p> {item}</p>);
             })}
           </div>
         </div>

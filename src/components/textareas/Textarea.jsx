@@ -9,7 +9,7 @@ const Textarea = ({ numberOne, numberTwo }) => {
   console.log(numberTwo);
 
   return (
-    <div className="d-flex justify-content-center gap-5">
+    <div className=" d-flex two">
       <div className="d-flex justify-content-center">
         <PalindromNumber numberOne={numberOne} numberTwo={numberTwo} />
       </div>

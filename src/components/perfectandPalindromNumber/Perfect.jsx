@@ -1,3 +1,5 @@
+
+
 import Return from "../return/Return";
 
 const Perfect = ({numberOne ,numberTwo}) => {
@@ -40,9 +42,8 @@ else {
         <div className="show">
           {per.map((item) => {
            console.log(item);
-            return(
-            <p>{item}</p>
-            ) 
+            return ( <p>{item} </p>  );
+            
           })}
          
         </div>

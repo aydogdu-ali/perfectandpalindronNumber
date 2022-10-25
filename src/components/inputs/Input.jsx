@@ -27,7 +27,7 @@ const Input = () => {
 
   return (
     <div>
-      <h4 className="title"> Please Enter a number between 1 and 1000</h4>
+      <h4 className="title mt-3"> Please Enter a number between 1 and 1000</h4>
       <form className=" form " >
         <div className="sperad">
           <input
